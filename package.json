@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "full_lex",
+  "version": "1.0.0",
+  "description": "Lookup BSB translations of Greek/Hebrew word",
+  "main": "full_lex.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Wunrow",
+  "license": "ISC"
+}
